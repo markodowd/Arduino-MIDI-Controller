@@ -1,6 +1,12 @@
 # Arduino-MIDI-Controller
 Arduino MIDI Controller
 
+# Materials:
+
+# Schematic:
+
+# Video:
+
 # To Do List:
 ```
 1. Finish Basic Project
