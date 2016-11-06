@@ -15,7 +15,7 @@ Arduino UNO MIDI Controller
 ```
 # Schematic:
 
-![Schematic](schematic.png)
+![Schematic](/Resources/schematic.png)
 
 # Instructions:
 ```
