@@ -14,15 +14,13 @@ Arduino MIDI Controller
 ```
 # Schematic:
 
-```
-![Schematic](/relative/path/to/img.jpg?raw=true "Optional Title")
-```
+![Schematic](schematic.png)
 
 # Instructions:
 ```
 1. Open MIDI-Controller.ino in Arduino IDE
 2. Verify then Upload to Arduino UNO
-3. Connect MIDI Cable to MIDI INPUT on Audio Interface, Sound Module, Synthesiser, etc.
+3. Connect via MIDI to Audio Interface, Sound Module, Synthesiser, etc.
 ```
 
 # Video Demonstration (Opens YouTube):
