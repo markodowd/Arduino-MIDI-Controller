@@ -29,10 +29,9 @@ Arduino UNO MIDI Controller
 [![MIDI Controller - Arduino Uno](http://img.youtube.com/vi/mDlEyWYO4mU/0.jpg)](https://www.youtube.com/watch?v=mDlEyWYO4mU)
 
 # To Do List:
-```
-1. Expand Code & Controller - Multiple Octaves + Additional Controls
-2. Expand to include 12 note buttons
-3. Buttons for selecting Octave
-4. Potentiameters for modulating
-5. Individual LED's for each Note + Octave Indicator
+``` 
+1. Expand to 12 Note Buttons (one octave chromatic scale)
+2. Add Buttons for Octave Selection (C3-C4 > C4-C5)
+3. Add LED's for each Note + Octave Indicator
+4. Introduce Potentiameters for Continuous Controller (CC) 
 ```
