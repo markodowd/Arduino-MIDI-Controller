@@ -1,5 +1,6 @@
 # Arduino-MIDI-Controller
-Arduino MIDI Controller
+
+Arduino UNO MIDI Controller
 
 # Materials:
 ```
