@@ -15,7 +15,7 @@ Arduino MIDI Controller
 # Schematic:
 
 ```
-IMAGE LINK HERE
+![Schematic](/relative/path/to/img.jpg?raw=true "Optional Title")
 ```
 
 # Instructions:
