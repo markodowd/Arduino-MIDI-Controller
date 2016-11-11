@@ -1,6 +1,6 @@
 # Arduino-MIDI-Controller
 
-Arduino UNO MIDI Controller
+Arduino UNO MIDI Controller - Using Arduino Uno at a baud rate of 31250 to avoid reliance on MIDI.h library
 
 # Materials:
 ```
